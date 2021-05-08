@@ -13,8 +13,9 @@ Model used to predict test dataset is “Logistic Regression” because Logistic
 
 # DataSet Description 
 Attribute Description: No. of attributes are 7 as listed below.
------|-----------|------|------
 S.NO | Attribute | Type | Range 
+-----|-----------|------|------
+
 
 
 # Class label description:
