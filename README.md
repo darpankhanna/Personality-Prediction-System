@@ -24,17 +24,17 @@ S.NO | Attribute | Type | Range
 7|	extraversion	|numeric	|1-8
 
 # Use instructions:
-Clone the repository
-On command line, enter 'pip install scikit-learn'
-Make sure train.csv follows the guidelines we use. Example training has been provided in said file.
-Run the file 'code.py'
+1. Clone the repository
+2. On command line, enter 'pip install scikit-learn'
+3. Make sure train.csv follows the guidelines we use. Example training has been provided in said file.
+4. Run the file 'code.py'
 
 # File information:
-Code.ipynb has the general overview of the project
-code.py contains all the code for the project
-output.csv will contain where the output after you run the file
-train.csv contains the learning set for the project.  This will show the progress of the machine learning
-test.csv is used for the prediction that the model set uses.
+● Code.ipynb has the general overview of the project
+● code.py contains all the code for the project
+● output.csv will contain where the output after you run the file
+● train.csv contains the learning set for the project.  This will show the progress of the machine learning
+● test.csv is used for the prediction that the model set uses.
 
 # Overview:
 Example data can be found in 'train.csv' as well as 'Code.ipynb.' The predictions will be saved into output.csv which officially has what you would find.  The biggest directory is the main directory as other folders are not as important for this case.
@@ -42,7 +42,7 @@ Example data can be found in 'train.csv' as well as 'Code.ipynb.' The prediction
 # Contribution Guideline information:
 We welcome anyone to contribute to this project.  In order to contribuite, we ask that you view CONTRIBUTING.md for further information.
 
-#Acknowledgements:
+# Acknowledgements:
 We acknoledge the following libraries which make this possible:
 
 sklearn library
